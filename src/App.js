@@ -36,11 +36,4 @@ const App = () => {
     </div>
   );
 };
-
-// class App extends Component {
-//   componentDidMount() {}
-
-//   render() {}
-// }
-
 export default App;
